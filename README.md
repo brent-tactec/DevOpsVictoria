@@ -15,5 +15,6 @@ All presentations for the meetup shall be located here, if agreed uponby the pre
 * Continuous Delivery Pipeline - Clecio Varjao – Devops Team Lead, Information Branch, CSNR
 
 ### [Oct 10, 2018](meetup-notes/2018-10-23)
+* Welcome & Introduction - Brent Reed – Founder, Tactec Inc.
 * Mindset Essentials and DevOps Experiences at Microsoft Corp - Willy-Peter Schaub, AJATO Transformations,
   ALM | DevOps Ranger
