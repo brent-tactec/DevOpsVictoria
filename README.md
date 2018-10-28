@@ -1,4 +1,19 @@
 # DevOpsVictoria
-DevOps Victoria Rep
 Welcome to DevOps Victoria :)
-All presentations shall be located here if agreed by the presenter, from this day <insert July 24, 2018> forward
+
+All presentations for the meetup shall be located here, if agreed uponby the presenter. 
+
+## Presentation Index
+
+### [Mar 19, 2018](2018-03-19)
+* Welcome & Introduction - Brent Reed, Founder, Tactec Inc.
+* CI in Action - Karim Mustafa DevOps Engineer, BC Government (GDX)
+* DevOps Metamorphosis - Sunil Mavadia, Director Customer Success, XebiaLabs
+
+### [Jul 23, 2018](2018-07-23)
+* Welcome & Introduction - Brent Reed – Founder, Tactec Inc.
+* Continuous Delivery Pipeline - Clecio Varjao – Devops Team Lead, Information Branch, CSNR
+
+### [Oct 10, 2018](2018-10-23)
+* Mindset Essentials and DevOps Experiences at Microsoft Corp - Willy-Peter Schaub, AJATO Transformations,
+  ALM | DevOps Ranger
