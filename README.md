@@ -1,7 +1,7 @@
 # DevOpsVictoria
 Welcome to DevOps Victoria :)
 
-All presentations for the meetup shall be located here, if agreed uponby the presenter. 
+All presentations for the meetup shall be located here, if agreed upon by the presenter. 
 
 ## Presentation Index
 
