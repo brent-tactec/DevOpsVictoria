@@ -18,3 +18,4 @@ All presentations for the meetup shall be located here, if agreed upon by the pr
 * Welcome & Introduction - Brent Reed – Founder, Tactec Inc.
 * Mindset Essentials and DevOps Experiences at Microsoft Corp - Willy-Peter Schaub, AJATO Transformations,
   ALM | DevOps Ranger
+### [Dec 07, 2018](meetup-notes/2018-12-2018)
