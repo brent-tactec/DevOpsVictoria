@@ -28,6 +28,6 @@ All presentations for the meetup shall be located here, if agreed upon by the pr
 * State of the Union - DevOps 2018 and future insights, the output / pdf forthcoming as the presentation has animation
 * Your experiences, the good, the bad and the ugly
 #### Links for the Reports in the presentation
-[Puppet State of the DevOps 2018 Report](https://puppet.com/resources/whitepaper/state-of-devops-report)
-[DORA State of the DevOps 2018 Report](https://cloudplatformonline.com/2018-state-of-devops.html)
+* [Puppet State of the DevOps 2018 Report](https://puppet.com/resources/whitepaper/state-of-devops-report)
+* [DORA State of the DevOps 2018 Report](https://cloudplatformonline.com/2018-state-of-devops.html)
 
