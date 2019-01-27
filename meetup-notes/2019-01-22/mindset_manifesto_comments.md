@@ -10,5 +10,5 @@ Updated [January 27, 2019] - please see mindset on a page
         > Another point was around data how do we quantify it
         > How can we sell the value of DevOps where and how can we capture data to sell the value
         > There’s a perception that details and report although important is not available using DevOps
-        > Additional resistance around DevOps is read is security things are out of date policies
+        > Additional resistance around DevOps are security (policies) and other things, including out of date policies
         > Mindset maturity model was requested
