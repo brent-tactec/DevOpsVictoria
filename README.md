@@ -45,11 +45,13 @@ All presentations for the meetup shall be located here, if agreed upon by the pr
 * Question to Group - What is the main obstacle or challange to DevOps
 * Discussion and Review of the draft - DevOps Mindset Manifesto
 
-### [May 21, 2019]  Lean Coffee meetup
+### May 21, 2019 Lean Coffee meetup
+
 * Welcome & Introductions - Brent Reed, Founder Tactec Inc.
 * Thanks to my Co-Host Willy and his experiance with deployment rings + hypothosis driven DevOps
 
 ### [July 22, 2019](meetup-notes/2019-07)
+
 * Welcome & Introductions - Brent Reed, Founder Tactec Inc.
 * Thanks to my Co-Host Kevan and his presentation on Testing
 * Welcome your feedback and questions
