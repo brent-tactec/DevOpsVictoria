@@ -56,7 +56,7 @@ All presentations for the meetup shall be located here, if agreed upon by the pr
 * Thanks to my Co-Host Kevan and his presentation on Testing
 * Welcome your feedback and questions
 
-### [September 2, 2019] (meetup-notes/2019-02) DevSecOps - with Tanya Janca 
+### [September 2, 2019] (meetup-notes/2019-09)
 * Welcome & Introductions - Brent & Tanya
 * DevSecOps Events - RedHat, September 25
 * Tanya's Presentation
