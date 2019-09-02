@@ -53,3 +53,9 @@ All presentations for the meetup shall be located here, if agreed upon by the pr
 * Welcome & Introductions - Brent Reed, Founder Tactec Inc.
 * Thanks to my Co-Host Kevan and his presentation on Testing
 * Welcome your feedback and questions
+
+### [September 2, 2019] DevSecOps - with Tanya Janca 
+* Welcome & Introductions - Brent & Tanya
+* DevSecOps Events - RedHat, September 25
+* Tanya's Presentation
+* Brent's Big Picture from DA http://disciplinedagiledelivery.com/security/
